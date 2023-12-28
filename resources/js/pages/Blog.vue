@@ -22,7 +22,7 @@
         <img src="images/pic1.jpg" alt="" />
         <p>
           2 hours ago
-          <span>Written By Alphayo Wakarindi</span>
+          <span>Written By simon</span>
         </p>
         <h4>
           <a href="single-blog.html">Benefits of getting covid 19 vaccination</a>
@@ -33,7 +33,7 @@
         <img src="images/pic2.jpg" alt="" />
         <p>
           23 hours ago
-          <span>Written By Alphayo Wakarindi</span>
+          <span>Written By simon</span>
         </p>
         <h4 style="font-weight: bolder">
           <a href="single-blog.html">Top 10 Music Stories Never Told</a>
@@ -44,7 +44,7 @@
         <img src="images/pic3.jpg" alt="" />
         <p>
           2 days ago
-          <span>Written By Alphayo Wakarindi</span>
+          <span>Written By simon</span>
         </p>
         <h4 style="font-weight: bolder">
           <a href="single-blog.html"
@@ -57,7 +57,7 @@
         <img src="images/pic4.jpg" alt="" />
         <p>
           3 days ago
-          <span>Written By Alphayo Wakarindi</span>
+          <span>Written By simon</span>
         </p>
         <h4 style="font-weight: bolder">
           <a href="single-blog.html">Premier League 2021/2022 Fixtures</a>
@@ -68,7 +68,7 @@
         <img src="images/pic5.jpg" alt="" />
         <p>
           2 weeks ago
-          <span>Written By Alphayo Wakarindi</span>
+          <span>Written By simon</span>
         </p>
         <h4 style="font-weight: bolder">
           <a href="single-blog.html">12 Health Benefits Of Pomegranate Fruit</a>
@@ -79,7 +79,7 @@
         <img src="images/pic6.jpg" alt="" />
         <p>
           1 month ago
-          <span>Written By Alphayo Wakarindi</span>
+          <span>Written By simon</span>
         </p>
         <h4 style="font-weight: bolder">
           <a href="single-blog.html"

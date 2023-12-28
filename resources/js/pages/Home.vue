@@ -6,7 +6,7 @@
       <img src="images/pic1.jpg" alt="" />
       <p>
         2 hours ago
-        <span style="float: right">Written By Alphayo Wakarindi</span>
+        <span style="float: right">Written By simon</span>
       </p>
       <h4 style="font-weight: bolder">
         <a href="single-blog.html"></a>
@@ -24,7 +24,7 @@
       <img src="images/pic2.jpg" alt="" />
       <p>
         23 hours ago
-        <span style="float: right">Written By Alphayo Wakarindi</span>
+        <span style="float: right">Written By simon</span>
       </p>
       <h4 style="font-weight: bolder">
         <a href="single-blog.html">Top 10 Music Stories Never Told</a>
@@ -35,7 +35,7 @@
       <img src="images/pic3.jpg" alt="" />
       <p>
         2 days ago
-        <span style="float: right">Written By Alphayo Wakarindi</span>
+        <span style="float: right">Written By simon</span>
       </p>
       <h4 style="font-weight: bolder">
         <a href="single-blog.html"
@@ -48,7 +48,7 @@
       <img src="images/pic4.jpg" alt="" />
       <p>
         3 days ago
-        <span style="float: right">Written By Alphayo Wakarindi</span>
+        <span style="float: right">Written By simon</span>
       </p>
       <h4 style="font-weight: bolder">
         <a href="single-blog.html">Premier League 2021/2022 Fixtures</a>

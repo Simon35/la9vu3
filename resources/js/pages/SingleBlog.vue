@@ -4,7 +4,7 @@
  
          <p class="time-and-author">
            2 hours ago
-           <span>Written By Alphayo Wakarindi</span>
+           <span>Written By simon</span>
          </p>
  
          <div class="single-blog-post-ContentImage" data-aos="fade-left">
